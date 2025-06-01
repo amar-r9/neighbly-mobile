@@ -1,0 +1,9 @@
+{
+  "appId": "com.neighbly.app",
+  "appName": "Neighbly",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "allowNavigation": ["sitbite.com"]
+  }
+}
