@@ -7,5 +7,7 @@
     "@capacitor/push-notifications": "^5.0.0",
     "@capacitor-firebase/messaging": "^5.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+  "@capacitor/cli": "^5.0.0"
+}
 }
